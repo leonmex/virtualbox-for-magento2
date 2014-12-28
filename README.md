@@ -3,7 +3,7 @@ virtualbox-for-magento2
 
 VirtualBoxMachine for Magento2
 
-This Virtual machine  contain all you need to store the database mysql 5.6 for magento 2.0
+This Virtual machine "version 4.2.16 ubuntu" contain all you need to store the database mysql 5.6 for magento 2.0
 Access
 user:mysql56
 pwd:Holamundo12
