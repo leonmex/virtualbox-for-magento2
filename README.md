@@ -14,4 +14,7 @@ pwd:root
 
 At the moment exist one database magento2 with all the test data.
 
-enjoy.
+Can you find here the docker image
+
+https://hub.docker.com/r/leonmex/ubuntu16.04-php7-magento19/
+
